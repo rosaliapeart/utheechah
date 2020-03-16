@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shookolee.danielkorsmeier.de/sitemap.xml
